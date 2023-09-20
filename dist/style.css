@@ -23,3 +23,7 @@
     padding: 8px;
     margin-right: 10px;
 }
+
+.current{
+    background-color: red !important;
+}
