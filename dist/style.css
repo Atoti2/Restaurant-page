@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    gap: 15px;
+    background-color: #70587C;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.nav button{
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #C8B8DB;
+    padding: 8px;
+    margin-right: 10px;
+}
